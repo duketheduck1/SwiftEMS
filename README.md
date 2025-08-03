@@ -96,5 +96,3 @@ To run the EMS demo locally:
    - Backend runs on [http://localhost:8000](http://localhost:8000) by default.
 
 ---
-
-Let me know if you want to customize the instructions further!
